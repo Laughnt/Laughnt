@@ -2,11 +2,22 @@ $$
 \color{pink}\fbox{\textbf{\textsf{READ IF CUTE}}}
 $$
 
+# 🌐 Socials:
+A more complete contact list is available [on my website](https://soopy.moe).
+In case my server explodes though,
+
+- github: you are here
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nhatminh5454) 
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%2C296%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.587%20thousand%20lines%20of%20code-blue)
+
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 
 **🐱 My GitHub Data** 
 
@@ -23,10 +34,10 @@ $$
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2388 commits        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-🌆 Daytime                2750 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌃 Evening                2626 commits        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-🌙 Night                  1334 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌞 Morning               2388 commits        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌆 Daytime               2750 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌃 Evening               2626 commits        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌙 Night                 1334 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -53,7 +64,7 @@ Python                   8 mins              ███████████�
 PyCharm                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-支持 趋势榜            8 mins                 █████████████████████████   100.00 % 
+支持 趋势榜               8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Ubuntu                   8 mins              █████████████████████████   100.00 % 
