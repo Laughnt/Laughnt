@@ -2,26 +2,22 @@ $$
 \color{pink}\fbox{\textbf{\textsf{READ IF CUTE}}}
 $$
 
-<details>
- <summary>Stats</summary>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C296%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%2C296%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-587.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.587%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 10.1 GB Used in GitHub's Storage 
- > 
+> 📦 10.1 GB Used in GitHub's Storage
+> 
 > 🏆 791 Contributions in the Year 2023
- > 
+> 
 > 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
+> 
+> 📜 2 Public Repositories
+> 
 > 🔑 137 Private Repositories 
  > 
 **I'm an Early 🐤** 
@@ -57,7 +53,7 @@ Python                   8 mins              ███████████�
 PyCharm                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ModMail                  8 mins              █████████████████████████   100.00 % 
+支持 趋势榜            8 mins                 █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Ubuntu                   8 mins              █████████████████████████   100.00 % 
@@ -74,13 +70,5 @@ TypeScript               8 repos              █░░░░░░░░░░�
 
 ```
 
+ Last Updated on 10/15/2023 08:33:39 UTC
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
-
-
- Last Updated on 12/03/2024 08:33:39 UTC
-<!--END_SECTION:waka-->
-</details>
