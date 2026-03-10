@@ -3,7 +3,6 @@ $$
 $$
 
 # 🌐 Socials:
-A more complete contact list is available [on my website](https://soopy.moe).
 In case my server explodes though,
 
 - github: you are here
